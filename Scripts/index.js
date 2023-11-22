@@ -1,8 +1,8 @@
 import { Ball,balls } from "./claseBall.js";
 import { ctx,width,height,random} from "./canvas.js";
 
-
-while (balls.length < 4) {
+//Cantidad de bolas de 4 a 25
+while (balls.length < 25) {
     const size = random(10, 20);
     const ball = new Ball(
         random(0 + size, width - size),
