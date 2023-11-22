@@ -1,3 +1,8 @@
+/**
+ *  Autor: Ignacio Carmona González
+ *  Github: 
+ */
+
 import { Ball,balls } from "./claseBall.js";
 import { ctx,width,height,random} from "./canvas.js";
 
