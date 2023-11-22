@@ -1,6 +1,6 @@
 /**
  *  Autor: Ignacio Carmona González
- *  Github: 
+ *  GitHub: https://github.com/IgnacioCG28/examenT3_DWEC.git
  */
 
 import { Ball,balls } from "./claseBall.js";
