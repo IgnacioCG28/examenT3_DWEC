@@ -1,4 +1,6 @@
-class Ball {
+import { ctx,width,height,randomRGB} from "./canvas.js";
+
+export class Ball {
     constructor(x, y, velX, velY, size) {
         this.x = x;
         this.y = y;
@@ -39,4 +41,4 @@ class Ball {
     }
 }
 
-const balls = [];
+export const balls = [];

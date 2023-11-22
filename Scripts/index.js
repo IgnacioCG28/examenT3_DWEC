@@ -1,5 +1,5 @@
-
-
+import { Ball,balls } from "./claseBall.js";
+import { ctx,width,height,random} from "./canvas.js";
 
 
 while (balls.length < 4) {
